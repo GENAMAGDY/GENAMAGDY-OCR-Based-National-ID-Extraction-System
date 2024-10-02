@@ -1,0 +1,1 @@
+# GENAMAGDY-OCR-Based-National-ID-Extraction-System
